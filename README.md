@@ -21,10 +21,6 @@ Check out my pinned repositories below to see my work!
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=midnight_purple" />
-</div>
-
 ### 💻 Tech Stack
 
 | Frontend | Backend & DB | Data & AI | Cloud |
