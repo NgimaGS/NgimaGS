@@ -20,10 +20,11 @@ Check out my pinned repositories below to see my work!
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
 ### 💻 Tech Stack
 
 | Frontend | Backend & DB | Data & AI | Cloud |
 | :---: | :---: | :---: | :---: |
 | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0072C6?logo=microsoftazure&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+</p>
