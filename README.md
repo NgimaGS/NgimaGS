@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-username" target="_blank">Your Name</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-username" target="_blank">Ngima</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/>
 </h1>
 
